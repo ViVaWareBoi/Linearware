@@ -8,7 +8,7 @@ There are currently 4 games and 4 scripts, We are updating every day with new ga
 
 ****INFO FOR V1****
 
-Press once on a game to Show, Press again to hide
-Drag the container instead of the tabholder
-Dont change the credits
-And finally, Enjoy!
+1. Press once on a game to Show, Press again to hide
+2. Drag the container instead of the tabholder
+3. Dont change the credits
+4. And finally, Enjoy!
