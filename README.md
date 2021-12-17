@@ -6,10 +6,10 @@
 ***New Project***
 
 <br>
-Just Execute
-```lua
+Just Execute:
+
 loadstring(game:HttpGet(("https://raw.githubusercontent.com/ViVaWareBoi/Linearware/main/linearhubloader"), true))()
-```
+
 {{Supported:
  TOH
  Dalgona Sim
