@@ -10,7 +10,7 @@ local CoreGui = game:GetService("StarterGui")
 
 CoreGui:SetCore("SendNotification", {
 	Title = "Notification";
-	Text = "Not supported";
+	Text = "Loaded | Dalgona Sim";
 	Duration = 5;
 })
 end
@@ -21,7 +21,7 @@ local CoreGui = game:GetService("StarterGui")
 
 CoreGui:SetCore("SendNotification", {
 	Title = "Notification";
-	Text = "Not supported";
+	Text = "Loaded | TOH";
 	Duration = 5;
 })
 end
