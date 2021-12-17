@@ -1,0 +1,13 @@
+nouni=false
+local function lo(l)
+loadstring(game:HttpGet(l,true))()
+nouni=true
+end
+if game.PlaceId==7728383137 then
+lo("https://raw.githubusercontent.com/ViVaWareBoi/Linearware/main/Dalgona%20sim")
+else
+
+end
+if game.PlaceId==1962086868 then
+lo("https://raw.githubusercontent.com/ViVaWareBoi/Linearware/main/TOH")
+end
