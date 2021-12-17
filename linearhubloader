@@ -15,7 +15,7 @@ CoreGui:SetCore("SendNotification", {
 })
 end
 if game.PlaceId==1962086868 then
-lo("https://raw.githubusercontent.com/ViVaWareBoi/Linearware/main/TOH")
+lo("https://raw.githubusercontent.com/ViVaWareBoi/Linearware/main/TOH%20main")
 else
 local CoreGui = game:GetService("StarterGui")
 
