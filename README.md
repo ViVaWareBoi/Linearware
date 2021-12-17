@@ -3,15 +3,16 @@
 +Using Kavo ui library now
 
 
-***New Progect***
+***New Project***
 
 <br>
+Just Execute
 ```lua
 loadstring(game:HttpGet(("https://raw.githubusercontent.com/ViVaWareBoi/Linearware/main/linearhubloader"), true))()
 ```
 {{Supported:
-TOH
-Dalgona Sim
+ TOH
+ Dalgona Sim
 }}
 
 **More soon!**
