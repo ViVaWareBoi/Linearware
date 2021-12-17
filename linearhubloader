@@ -6,8 +6,22 @@ end
 if game.PlaceId==7728383137 then
 lo("https://raw.githubusercontent.com/ViVaWareBoi/Linearware/main/Dalgona%20sim")
 else
+local CoreGui = game:GetService("StarterGui")
 
+CoreGui:SetCore("SendNotification", {
+	Title = "Notification";
+	Text = "Not supported";
+	Duration = 5;
+})
 end
 if game.PlaceId==1962086868 then
 lo("https://raw.githubusercontent.com/ViVaWareBoi/Linearware/main/TOH")
+else
+local CoreGui = game:GetService("StarterGui")
+
+CoreGui:SetCore("SendNotification", {
+	Title = "Notification";
+	Text = "Not supported";
+	Duration = 5;
+})
 end
